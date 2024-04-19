@@ -35,7 +35,7 @@ function Story() {
               lacus. Nedana themo eros odio semper soe suscipit non. Curabit
               aliquet orci elit genes tristique.
             </p>
-            <h4>Dec 5th, 2021, We Said Yes!</h4>
+            <h4></h4>
             <p>
               Luality fringilla duiman at elit finibus viverra nec a lacus themo
               the druanye sene sollicitudin mi suscipit non sagie the fermen.
