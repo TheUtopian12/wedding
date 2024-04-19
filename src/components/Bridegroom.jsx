@@ -24,22 +24,7 @@ function Bridegroom() {
                   <p>
                     Nulla Lorem consequat nulla aliquip. Ea veniam aliqua id consectetur commodo.
                   </p>
-                  <div className='social'>
-                    <div className='full-width'>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-facebook'></i>{' '}
-                      </a>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-twitter'></i>{' '}
-                      </a>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-instagram'></i>{' '}
-                      </a>
-                    </div>
-                  </div>
+
                 </div>
               </div>
             </div>
@@ -64,22 +49,7 @@ function Bridegroom() {
                     seda themo the miss druane semper sollicitudin non the
                     fermen.
                   </p>
-                  <div className='social'>
-                    <div className='full-width'>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-facebook'></i>{' '}
-                      </a>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-twitter'></i>{' '}
-                      </a>
-                      <a href='#0' className='icon'>
-                        {' '}
-                        <i className='ti-instagram'></i>{' '}
-                      </a>
-                    </div>
-                  </div>
+
                 </div>
               </div>
             </div>
